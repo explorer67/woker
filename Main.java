@@ -1,4 +1,4 @@
-package homework_woker;
+//package homework_woker;
 
 public class Main {
     public static void main(String[] args) {

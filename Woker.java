@@ -1,4 +1,4 @@
-package homework_woker;
+//package homework_woker;
 
 public class Woker {
     @FunctionalInterface
